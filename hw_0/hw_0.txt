@@ -1,0 +1,13 @@
+1. 
+How many features/attributes are there per sample?
+- 4 numeric
+How many different species are there, and how many samples of each species did Anderson record?
+- 3 species with 50 samples for each species
+
+2.
+- in notebook
+
+3.
+
+
+
